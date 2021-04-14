@@ -1,6 +1,6 @@
 print("Olá,Bem vindo à calculadora")
 
-while true do
+while true do 
 
 	print("Insira o primeiro valor")
   valor1 = io.read()
